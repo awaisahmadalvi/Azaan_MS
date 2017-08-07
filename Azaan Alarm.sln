@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azaan Alarm Manager", "Azaan Alarm Manager\Azaan Alarm Manager.csproj", "{DC913FB0-ED16-4B1B-BB35-73E99E3FD853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azaan Alarm Service", "Azaan Alarm Service\Azaan Alarm Service.csproj", "{95213C07-2747-4642-A836-79A70342E721}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Azaan Alarm Installer", "Azaan Alarm Installer\Azaan Installer.vdproj", "{69F5F79A-98C1-4FE4-8653-42BA9D86CE54}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC913FB0-ED16-4B1B-BB35-73E99E3FD853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC913FB0-ED16-4B1B-BB35-73E99E3FD853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC913FB0-ED16-4B1B-BB35-73E99E3FD853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC913FB0-ED16-4B1B-BB35-73E99E3FD853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95213C07-2747-4642-A836-79A70342E721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95213C07-2747-4642-A836-79A70342E721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95213C07-2747-4642-A836-79A70342E721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95213C07-2747-4642-A836-79A70342E721}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F5F79A-98C1-4FE4-8653-42BA9D86CE54}.Debug|Any CPU.ActiveCfg = Debug
+		{69F5F79A-98C1-4FE4-8653-42BA9D86CE54}.Release|Any CPU.ActiveCfg = Release
+		{69F5F79A-98C1-4FE4-8653-42BA9D86CE54}.Release|Any CPU.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

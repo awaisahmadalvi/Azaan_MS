@@ -1,0 +1,38 @@
+﻿{
+	"fajar": 
+		{
+			"time": "00:00:00", 
+			"active": "0", 
+			"waiting": "0"
+		}
+	"zohar": 
+		{
+			"time": "00:00:00", 
+			"active": "0", 
+			"waiting": "0"
+		}
+	"asar": 
+		{
+			"time": "00:00:00", 
+			"active": "0", 
+			"waiting": "0"
+		}
+	"maghrib": 
+		{
+			"time": "00:00:00", 
+			"active": "0", 
+			"waiting": "0"
+		}
+	"isha": 
+		{
+			"time": "00:00:00", 
+			"active": "0", 
+			"waiting": "0"
+		}
+	"jumma": 
+		{
+			"time": "00:00:00", 
+			"active": "0", 
+			"waiting": "0"
+		}
+}

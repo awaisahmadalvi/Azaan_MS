@@ -1,0 +1,6 @@
+*.exe
+*.wav
+*bin/
+*obj/
+*Debug/
+*Release/
